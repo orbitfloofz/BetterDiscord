@@ -20,15 +20,15 @@
 
 /* Copy and paste this example and then changes the server name and hex color code */
 .container-3w7J-x[aria-label*="SERVER_NAME"]:before {
-      --title-custom: #184c88;
+      --title-custom: #6c6cf4;
 }
 
 /* CUSTOM TITLE BAR COLORS -> DEFAULTS */
 
 .container-3w7J-x[aria-label*="BetterDiscord"]:before {
-      --title-custom: #3b77c4;
+      --title-custom: #6c6cf4;
 }
 
 .container-3w7J-x[aria-label*="CapnKitten"]:before {
-      --title-custom: #184c88;
+      --title-custom:#6c6cf4;
 }
